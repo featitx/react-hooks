@@ -5,7 +5,7 @@ Consider a simple React component that represents a counter. Implement the compo
 ```javascript
 import React, { useState } from 'react';
 
-const Counter = () => {
+const App = () => {
   // Your code here
 
   return (
@@ -17,7 +17,7 @@ const Counter = () => {
   );
 };
 
-export default Counter;
+export default App;
 
 ```
 
