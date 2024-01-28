@@ -39,4 +39,6 @@ Im doing it src - App.jsx directly , You can make separate component
 
 ### OUTPUT images 
 
-<img src = "../output-images/output-1.png" height = 100px width 150px>
+<img src = "https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/output-1.png" height = 100px width 150px>
+<img src = "https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/Screenshot%202024-01-28%20152935.png" height = 100px width 150px>
+
