@@ -2,7 +2,6 @@
 
 Create a React component that includes an input field. Use the useState hook to manage the value of the input field. Display the current value of the input field below it. Additionally, implement a button that, when clicked, resets the input field to an empty string.
 
-
 ```javascript
 import React, { useState } from 'react';
 
@@ -27,18 +26,14 @@ const App = () => {
 export default App;
 ```
 
-
-Im doing it src - App.jsx directly , You can make separate component 
+Im doing it src - App.jsx directly , You can make separate component
 
 ### Rules.
 
-1) Do not copy or use chatgpt (You can use Google for basic understanding and )
-2) If got any error try to learn and resolve it by your own 
+1. Do not copy or use chatgpt (You can use Google for basic understanding and )
+2. If got any error try to learn and resolve it by your own
 
+### OUTPUT images
 
-
-### OUTPUT images 
-
-<img src = "https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/output-1.png" height = 100px width 150px>
-<img src = "https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/Screenshot%202024-01-28%20152935.png" height = 100px width 150px>
-
+![Output Image 1](https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/output-1.png)
+![Output Image 2](https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/Screenshot%202024-01-28%20152935.png)
