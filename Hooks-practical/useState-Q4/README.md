@@ -42,7 +42,7 @@ so start coding
 Utilizes the useState hook to manage the state of whether details should be displayed or hidden. The initial state is set to true.
 
 2) Conditional Rendering: 
-Details are conditionally rendered based on the state using the ternary operator. If the detail state is true, a <ul> with list items is displayed; otherwise, an empty fragment is rendered.
+Details are conditionally rendered based on the state using the ternary operator. If the detail state is true, a ul (tag) with list items is displayed; otherwise, an empty fragment is rendered.
 
 3) Toggle Button: 
 The button text and functionality are dynamically determined based on the detail state. If details are hidden (detail is false), the button says "Show Detail" and, when clicked, sets detail to true. If details are displayed (detail is true), the button says "Hide Detail" and, when clicked, sets detail to false.
