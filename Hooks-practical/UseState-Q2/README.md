@@ -33,6 +33,19 @@ Im doing it src - App.jsx directly , You can make separate component
 1. Do not copy or use chatgpt (You can use Google for basic understanding and )
 2. If got any error try to learn and resolve it by your own
 
+
+### Things you got to learn
+
+- You use the useState hook to create a state variable change to manage the value of the input field.
+
+- The handleOnChange function is passed to the onChange event of the input field. It updates the change state with the current value of the  input field whenever the user types something. Note that the function correctly uses e.target.value to get the input value.
+
+- The value of the input field is set to the change state, ensuring that it is a controlled input.
+
+- The current value of the input field is displayed below the input field.
+
+- The "Reset Input" button, when clicked, calls setChange('') to reset the input field to an empty string.
+
 ### OUTPUT images
 
 ![Output Image 1](https://github.com/featitx/react-hooks/blob/master/Hooks-practical/UseState-Q2/src/output-images/output-1.png)
