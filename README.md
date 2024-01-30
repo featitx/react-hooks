@@ -21,3 +21,26 @@ As a beginner, there is no need to dive into more hooks until you have a strong 
 3. Start with the introductory section below to understand the task and what concepts it covers.
 
 4. Dive into the solution file if you need help or want to compare your solution.
+
+
+### useState Hook
+
+1. **Task: [Basic State Management]**
+1. **Task: [Controlled Input with useState]**
+1. **Task: [Dynamic List with useState (Basic Todo)]**
+1. **Task: [Conditional Rendering with useState]**
+1. **Task: [State Management for a Form]**
+
+
+### useEffect Hook
+    - Coming soon !
+
+### useRef Hook
+    - Coming soon !
+
+### useContext Hook
+    - Coming soon !
+
+
+
+   
