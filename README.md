@@ -22,24 +22,27 @@ As a beginner, there is no need to dive into more hooks until you have a strong 
 
 4. Dive into the solution file if you need help or want to compare your solution.
 
+## HOOks covered and whats inside it.
 
 ### useState Hook
 
 1. **Task: [Basic State Management]**
-1. **Task: [Controlled Input with useState]**
-1. **Task: [Dynamic List with useState (Basic Todo)]**
-1. **Task: [Conditional Rendering with useState]**
-1. **Task: [State Management for a Form]**
+2. **Task: [Controlled Input with useState]**
+3. **Task: [Dynamic List with useState (Basic Todo)]**
+4. **Task: [Conditional Rendering with useState]**
+5. **Task: [State Management for a Form]**
+6. **Task: [Dynamic Form Fields]**
+
 
 
 ### useEffect Hook
-    - Coming soon !
+**Coming soon !**
 
 ### useRef Hook
-    - Coming soon !
+**Coming soon !**
 
 ### useContext Hook
-    - Coming soon !
+**Coming soon !**
 
 
 
